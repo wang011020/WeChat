@@ -1,0 +1,35 @@
+{
+"app_id": "wxa93be9ecfae73fbc",
+"app_secret": "bd23dcfa57aa698f48d917d74e53c80c",
+
+"template_id": "7X7rx4ilECng2cNweQ93yXYOU3jbebA3GNQcEHz7LRM",
+"user_id": ["o_sOg6n9sH72WXjzxyCexWpXbnkg","o_sOg6qcOGAZn9qSdKUcUOcoDvaU"],
+
+
+"C_ShengFen": "四川",
+"C_ChengShi": "成都",
+"S_XingZuo": "双鱼座",
+
+"S_Love": "2022-04-11",
+"birthday1": "y2001-02-15",
+
+"C_String01": "对不起原谅我只能用这种方式每天陪伴你",
+"C_String02": "亲爱的梅梅",
+"C_String03": "无",
+
+
+# 天气预报
+"API_TQYB":"098903677dda161678f8744328f13562",
+# 星座运势
+"API_XZYS":"098903677dda161678f8744328f13562",
+
+# 早安心语
+"API_ZAXY":"098903677dda161678f8744328f13562",
+# 晚安心语
+"API_WAXY":"098903677dda161678f8744328f13562",
+
+# 舔狗日记
+"API_TGRJ":"098903677dda161678f8744328f13562",
+# 土味情话
+"API_TWQH":"098903677dda161678f8744328f13562"
+}
